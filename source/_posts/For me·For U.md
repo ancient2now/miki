@@ -237,17 +237,17 @@ Ting.
 
 2019年末的我
 
-![](https://mbi.yume.ink/2020/05/IMG_6808.JPG)
+![](https://mbi.yume.ink/2020/05/IMG_6809.JPG)
 
 2017年初的我..
 
 ![](https://mbi.yume.ink/2020/05/IMG_6800.JPG)
 
-![](https://mbi.yume.ink/2020/05/IMG_6806.JPG)
+![](https://mbi.yume.ink/2020/05/IMG_6810.JPG)
 
 2015年出发去日本前的我...
 
-![](https://mbi.yume.ink/2020/05/IMG_6807.JPG)
+![](https://mbi.yume.ink/2020/05/IMG_6811.JPG)
 
 以及更年轻的wo~
 
