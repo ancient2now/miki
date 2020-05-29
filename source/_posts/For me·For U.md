@@ -3,8 +3,8 @@ title: <给自己·For U>
 date: 2020-05-29 14:37:53
 category: 给自己·For U
 tag: [音乐, 自身, 生活] 
-index_img: <https://mbi.yume.ink/2020/05/IMG_6802.JPG>
-banner_img: <https://mbi.yume.ink/2020/05/IMG_6799.JPG>
+index_img: https://mbi.yume.ink/2020/05/IMG_6802.JPG
+banner_img: https://mbi.yume.ink/2020/05/IMG_6799.JPG
 ---
 
 # アレルヤ 
@@ -66,8 +66,8 @@ Kalafina的哈雷路亚，是一首充满了力量的歌。
 届かず消え失せて
 
 未先到达便已消逝
-仆らは
 
+仆らは
 
 我们啊
 
@@ -237,17 +237,17 @@ Ting.
 
 2019年末的我
 
-![](https://mbi.yume.ink/2020/05/IMG_6797.JPG)
+![](https://mbi.yume.ink/2020/05/IMG_6808.JPG)
 
 2017年初的我..
 
 ![](https://mbi.yume.ink/2020/05/IMG_6800.JPG)
 
-![](https://mbi.yume.ink/2020/05/IMG_6785.JPG)
+![](https://mbi.yume.ink/2020/05/IMG_6806.JPG)
 
 2015年出发去日本前的我...
 
-![](https://mbi.yume.ink/2020/05/IMG_6796.JPG)
+![](https://mbi.yume.ink/2020/05/IMG_6807.JPG)
 
 以及更年轻的wo~
 
