@@ -1,5 +1,5 @@
 ---
-title: <给自己·For U>
+title: 给自己·For U
 date: 2020-05-29 14:37:53
 category: 给自己·For U
 tag: [音乐, 自身, 生活] 
