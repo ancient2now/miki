@@ -15,13 +15,16 @@ banner_img: https://mbi.yume.ink/2020/06/IMG_6801.JPG
 
 
 [鲸鱼·海·光](https://b23.tv/XqnYC1)
+
+
+![](https://mbi.yume.ink/2020/06/IMG_7645.JPG)
 <p align='center'>[治愈的，美好的]</p>
 
 
 海是充满生命力的。
 
 
-是温柔的。
+是包容的，是温柔的。
 
 
 静谧的。
