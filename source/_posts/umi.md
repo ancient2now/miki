@@ -15,6 +15,8 @@ banner_img: https://mbi.yume.ink/2020/06/IMG_6801.JPG
 
 
 [鲸鱼·海·光](https://b23.tv/XqnYC1)
+<p align='center'>[治愈的，美好的]</p>
+
 
 海是充满生命力的。
 
@@ -25,11 +27,11 @@ banner_img: https://mbi.yume.ink/2020/06/IMG_6801.JPG
 静谧的。
 
 
-也不乏暴烈。
+海也不乏暴烈。
 
 
 ![](https://mbi.yume.ink/2020/06/IMG_7687.JPG)
-
+<p align='center'>[晨曦的光与云与我]</p>
 
 照片是曾经拍的大海。
 
@@ -54,6 +56,7 @@ banner_img: https://mbi.yume.ink/2020/06/IMG_6801.JPG
 
 ![](https://mbi.yume.ink/2020/06/IMG_7686.JPG)
 
+<p align='center'>[清晨，我在船尾，海上的光柱]</p>
 
 你看到 
 
