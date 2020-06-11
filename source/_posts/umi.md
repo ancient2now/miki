@@ -1,8 +1,8 @@
 ---
-title: Umi
+title: 海
 date: 2020-06-11 15:14:52
 category: 美丽的
-tag: [海, 治愈，光] 
+tag: [海, 治愈, 自我] 
 index_img: https://mbi.yume.ink/2020/06/IMG_6801.JPG
 banner_img: https://mbi.yume.ink/2020/06/IMG_6801.JPG
 ---
@@ -31,7 +31,7 @@ banner_img: https://mbi.yume.ink/2020/06/IMG_6801.JPG
 
 
 ![](https://mbi.yume.ink/2020/06/IMG_7687.JPG)
-<p align='center'>[晨曦的光与云与我]</p>
+<p align='center'>[晨曦·光 与云 与我]</p>
 
 照片是曾经拍的大海。
 
